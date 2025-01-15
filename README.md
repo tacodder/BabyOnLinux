@@ -5,7 +5,7 @@ In 2025, AI, GPUs, LLMs, and many other technologies are advancing at an incredi
 
 Here you have top tools that help me a lot to start with it, and the most important not watching boring and long videos, just doing step-by-step:
 
-**1. https://www.terminaltemple.com/**
+**1. https://www.terminaltemple.com/**  
    (This website have an amazing tutorial, **learn by doing!**)  
 **2. https://www.freecodecamp.org/learn/relational-database/learn-bash-scripting-by-building-five-programs/build-five-programs**  
    (This Special chapter/project this you step-by-step basics in linux programming)
